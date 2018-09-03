@@ -1,3 +1,4 @@
+/* this is the first sample codechef program submission*/
 #include <iostream>
 #include <algorithm>
 using namespace std;
