@@ -5,6 +5,5 @@ int main()
 	int a,b;
 	cin>>a;
 	cout<<a<<endl;
-	cout<<b<<endl;
 	return 0;
 }
