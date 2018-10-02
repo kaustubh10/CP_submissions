@@ -8,6 +8,7 @@ int main()
 	cin>>n;
 	for(i=0;i<n;i++)
 		cin>>a[i];
+	cout<<"hello world"<<endl;
 	int maxi = 0;
 	int pro;
 	int c = 0;
